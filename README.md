@@ -7,5 +7,5 @@
 
 Nombre|Mail
 ------------|-------------
-Gabriel Cuchacovich | 
+Gabriel Cuchacovich | gacuchac@uc.cl
 Daniela Quiroz | daquiroz@uc.cl
